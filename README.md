@@ -36,8 +36,10 @@
   - `React`
 - #### Back-End
   - `Node js`
-- #### Mobile
+- #### Mobile - iOS
   - `Swift`, `RxSwift`
+- #### Mobile - Android
+  - `Java`
 
 
 </br>
